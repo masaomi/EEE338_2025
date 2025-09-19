@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	akam_sample1	/scratch/bio373_2021/masa/akam_samples1/akam_sample1_fastqc.zip
+FastQC	all_sections	akam_sample2	/scratch/bio373_2021/masa/akam_samples1/akam_sample2_fastqc.zip
+FastQC	all_sections	akam_sample3	/scratch/bio373_2021/masa/akam_samples1/akam_sample3_fastqc.zip
+FastQC	all_sections	akam_sample4	/scratch/bio373_2021/masa/akam_samples1/akam_sample4_fastqc.zip

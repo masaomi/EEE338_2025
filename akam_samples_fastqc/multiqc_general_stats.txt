@@ -1,0 +1,5 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+akam_sample1	18.543801908586772	49.0	151.0	18.181818181818183	1000000.0
+akam_sample2	24.606088344329535	45.0	151.0	18.181818181818183	1000000.0
+akam_sample3	13.606788723300951	48.0	151.0	18.181818181818183	1000000.0
+akam_sample4	30.340345210996617	50.0	151.0	27.27272727272727	1000000.0
