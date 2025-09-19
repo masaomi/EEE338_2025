@@ -23,7 +23,7 @@ $ git pull
 -------|-------
 9.00-  | **Basic NGS analyses (Lecture)** [EEE338_2025_NGS_Bioinformatics.ipynb](EEE338_2025_NGS_Bioinformatics.ipynb)
 10.00- | **Basic Informatics (Lecture)** [EEE338_2025_Linux.ipynb](EEE338_2025_Linux.ipynb)
-11.00- | **Quality control (Practice)**
+11.00- | **Quality control (Practice)** [EEE338_2025_Command_Practice.md](https://gist.github.com/masaomi/f844f8c7089adee9ee3fd2b1e2130116)
  &nbsp;| &nbsp;
 **19 Sep**  | &nbsp;
 13.00- | **RNAseq analysis part1 (Lecture)** [EEE338_2025_RNAseq_analysis1.ipynb](EEE338_2025_RNAseq_analysis1.ipynb)
