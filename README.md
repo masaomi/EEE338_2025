@@ -30,7 +30,7 @@ $ git pull
 15.00- | **RNAseq alignment (Practice)** [EEE338_2025_Mapping.md](https://gist.github.com/masaomi/f0b351ea444bcc91ab478bd4668aa2b3)
  &nbsp;| &nbsp;
 **23 Sep**   | &nbsp;
-13.00-  | **RNAseq analysis part2 (Lecture)**
+13.00-  | **RNAseq analysis part2 (Lecture)** [EEE338_2025_RNAseq_analysis2.ipynb](EEE338_2025_RNAseq_analysis2.ipynb)
 15.00- | **RNAseq counting (Practice)**
  &nbsp;| &nbsp;
 **24 Sep**   | &nbsp;
