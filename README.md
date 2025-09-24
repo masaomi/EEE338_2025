@@ -40,6 +40,10 @@ $ git pull
 **24 Sep**   | &nbsp;
 13.00- | **Final practice**
 
+## Links
+
+- Mock examination: https://gist.github.com/masaomi/7d6b43eace29cf23523762c11662f1a9
+
 ## Google Colab
 
 * https://colab.research.google.com/github/masaomi/EEE338_2025
