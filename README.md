@@ -38,7 +38,7 @@ $ git pull
 10.00- | **RNAseq DEG analysis (Practice)** [EEE338_2025_DEG_Analysis.md](https://gist.github.com/masaomi/d45229c25e339540f66150f28fa770d6)
  &nbsp;| &nbsp;
 **24 Sep**   | &nbsp;
-13.00- | **Final practice**
+13.00- | **Final practice** [EEE338_2025_Final_Practice.md](https://gist.github.com/masaomi/b2b3ca19ba328405e64359864196920f)
 
 ## Links
 
