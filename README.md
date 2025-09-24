@@ -34,7 +34,7 @@ $ git pull
 14.00- | **RNAseq counting (Practice)** [EEE338_2025_Counting.md](https://gist.github.com/masaomi/479e2d3a617350b9f5fbde7ea38b3af5)
  &nbsp;| &nbsp;
 **24 Sep**   | &nbsp;
-9.00-  | **RNAseq analysis part3 (Lecture)**
+9.00-  | **RNAseq analysis part3 (Lecture)** [EEE338_2025_RNAseq_analysis3.ipynb](EEE338_2025_RNAseq_analysis3.ipynb)
 10.00- | **RNAseq DEG analysis (Practice)**
  &nbsp;| &nbsp;
 **24 Sep**   | &nbsp;
