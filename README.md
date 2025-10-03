@@ -43,6 +43,7 @@ $ git pull
 ## Links
 
 - Mock examination: https://gist.github.com/masaomi/7d6b43eace29cf23523762c11662f1a9
+- Mock examination (answer): https://gist.github.com/masaomi/ce7260ce33ce005a930e259728cdd705
 
 ## Google Colab
 
